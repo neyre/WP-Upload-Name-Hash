@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Upload Name Hash
+Plugin Name: Media File Name Guess Preventer
 Description: Prepend a random string to media file uploads to prevent file name guessing.
 Author: Nick Eyre
 Version: 1.0.0

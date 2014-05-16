@@ -1,4 +1,4 @@
-=== Upload Name Hash ===
+=== Media File Name Guess Preventer ===
 Contributors: nkyre
 Tags: uploads
 Requires at least: 3.0.1
